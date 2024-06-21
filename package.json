@@ -1,0 +1,22 @@
+{
+  "name": "apidev",
+  "version": "1.0.0",
+  "description": "Meta data api development tool kit",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "onemco-team",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cors": "^2.8.5",
+    "cros": "^1.0.1",
+    "cross": "^1.0.0",
+    "express": "^4.17.3",
+    "got": "^12.0.3",
+    "meta-fetcher": "^3.1.1",
+    "metadata-scraper": "^0.2.53",
+    "nodemon": "^2.0.15"
+  }
+}
